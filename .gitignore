@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# local files
+index_hlpfunc.txt
+test.py
+/../got.csv
+/../gotten
+/../league2.csv
+/../leagues
