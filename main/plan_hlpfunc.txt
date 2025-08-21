@@ -1,0 +1,12 @@
+extract data from api using headers and params, converted to json and started mining
+(fixed the extracted data into a list)
+
+connecting to database using credentials from dotenv
+
+create new table and schema for api data
+
+insert records from api list of data that had been stored and insert into database
+
+call the main function as the function that calls the other functions. else fix in another table
+(conn will be params for create schema, standing as the connection func)
+(conn and data will be params for insert records, data as api call that returned the list)
