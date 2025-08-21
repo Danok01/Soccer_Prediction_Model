@@ -1,0 +1,532 @@
+[
+    {
+        "id": 42,
+        "name": "Champions League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/42.png"
+    },
+    {
+        "id": 73,
+        "name": "Europa League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/73.png"
+    },
+    {
+        "id": 9470,
+        "name": "AFC Challenge League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9470.png"
+    },
+    {
+        "id": 525,
+        "name": "AFC Champions League Elite",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/525.png"
+    },
+    {
+        "id": 10622,
+        "name": "AFC Champions League Elite Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10622.png"
+    },
+    {
+        "id": 9469,
+        "name": "AFC Champions League Two",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9469.png"
+    },
+    {
+        "id": 10511,
+        "name": "AFC Summer Olympics Qualification (Women)",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10511.png"
+    },
+    {
+        "id": 9841,
+        "name": "AFC U20 Asian Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9841.png"
+    },
+    {
+        "id": 9571,
+        "name": "AFC U23 Asian Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9571.png"
+    },
+    {
+        "id": 289,
+        "name": "Africa Cup of Nations",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/289.png"
+    },
+    {
+        "id": 10608,
+        "name": "Africa Cup of Nations Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10608.png"
+    },
+    {
+        "id": 10508,
+        "name": "African Football League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10508.png"
+    },
+    {
+        "id": 9428,
+        "name": "African Nations Championship",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9428.png"
+    },
+    {
+        "id": 10474,
+        "name": "Arab Club Champions Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10474.png"
+    },
+    {
+        "id": 9265,
+        "name": "ASEAN Championship",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9265.png"
+    },
+    {
+        "id": 290,
+        "name": "Asian Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/290.png"
+    },
+    {
+        "id": 10609,
+        "name": "Asian Cup  Qualification Playoff",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10609.png"
+    },
+    {
+        "id": 9833,
+        "name": "Asian Games",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9833.png"
+    },
+    {
+        "id": 10656,
+        "name": "Beta Squad vs Amp Charity",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10656.png"
+    },
+    {
+        "id": 526,
+        "name": "CAF Champions League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/526.png"
+    },
+    {
+        "id": 10619,
+        "name": "CAF Champions League Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10619.png"
+    },
+    {
+        "id": 9468,
+        "name": "CAF Confed Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9468.png"
+    },
+    {
+        "id": 9467,
+        "name": "CAF Super Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9467.png"
+    },
+    {
+        "id": 9875,
+        "name": "Campeones Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9875.png"
+    },
+    {
+        "id": 10611,
+        "name": "Champions League Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10611.png"
+    },
+    {
+        "id": 489,
+        "name": "Club Friendlies",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png"
+    },
+    {
+        "id": 9682,
+        "name": "CONCACAF Central American Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9682.png"
+    },
+    {
+        "id": 297,
+        "name": "CONCACAF Champions Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/297.png"
+    },
+    {
+        "id": 9656,
+        "name": "CONCACAF Championship U20",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9656.png"
+    },
+    {
+        "id": 10621,
+        "name": "CONCACAF Championship U20 Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10621.png"
+    },
+    {
+        "id": 298,
+        "name": "CONCACAF Gold Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/298.png"
+    },
+    {
+        "id": 10603,
+        "name": "CONCACAF Gold Cup Women",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10603.png"
+    },
+    {
+        "id": 9821,
+        "name": "CONCACAF Nations League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9821.png"
+    },
+    {
+        "id": 10216,
+        "name": "Conference League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10216.png"
+    },
+    {
+        "id": 10615,
+        "name": "Conference League Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10615.png"
+    },
+    {
+        "id": 9848,
+        "name": "CONMEBOL U20 Championship",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9848.png"
+    },
+    {
+        "id": 44,
+        "name": "Copa America",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/44.png"
+    },
+    {
+        "id": 10368,
+        "name": "Copa America Femenina",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10368.png"
+    },
+    {
+        "id": 45,
+        "name": "Copa Libertadores",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/45.png"
+    },
+    {
+        "id": 10618,
+        "name": "Copa Libertadores Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10618.png"
+    },
+    {
+        "id": 299,
+        "name": "Copa Sudamericana",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/299.png"
+    },
+    {
+        "id": 10623,
+        "name": "Copa Sudamericana Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10623.png"
+    },
+    {
+        "id": 9849,
+        "name": "COSAFA Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9849.png"
+    },
+    {
+        "id": 300,
+        "name": "East Asian Championship",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/300.png"
+    },
+    {
+        "id": 50,
+        "name": "EURO",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/50.png"
+    },
+    {
+        "id": 10607,
+        "name": "EURO Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10607.png"
+    },
+    {
+        "id": 301,
+        "name": "EURO U17",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/301.png"
+    },
+    {
+        "id": 287,
+        "name": "EURO U19",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/287.png"
+    },
+    {
+        "id": 288,
+        "name": "EURO U21",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/288.png"
+    },
+    {
+        "id": 10437,
+        "name": "EURO U-21 Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10437.png"
+    },
+    {
+        "id": 10613,
+        "name": "Europa League Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10613.png"
+    },
+    {
+        "id": 10242,
+        "name": "FIFA Arab Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10242.png"
+    },
+    {
+        "id": 78,
+        "name": "FIFA Club World Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/78.png"
+    },
+    {
+        "id": 10913,
+        "name": "FIFA Club World Cup Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10913.png"
+    },
+    {
+        "id": 10703,
+        "name": "FIFA Intercontinental Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10703.png"
+    },
+    {
+        "id": 114,
+        "name": "Friendlies",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/114.png"
+    },
+    {
+        "id": 344,
+        "name": "Friendlies U-21",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/344.png"
+    },
+    {
+        "id": 329,
+        "name": "Gulf Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/329.png"
+    },
+    {
+        "id": 11038,
+        "name": "King's Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/11038.png"
+    },
+    {
+        "id": 10043,
+        "name": "Leagues Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10043.png"
+    },
+    {
+        "id": 305,
+        "name": "Maurice Revello Tournament ",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/305.png"
+    },
+    {
+        "id": 10649,
+        "name": "NWSL x Liga MX",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10649.png"
+    },
+    {
+        "id": 491,
+        "name": "Recopa Sudamericana",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/491.png"
+    },
+    {
+        "id": 9876,
+        "name": "SAFF Championship",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9876.png"
+    },
+    {
+        "id": 9921,
+        "name": "SheBelieves Cup (W)",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9921.png"
+    },
+    {
+        "id": 10312,
+        "name": "Sidemen Charity Match",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10312.png"
+    },
+    {
+        "id": 9690,
+        "name": "Southeast Asian Games",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9690.png"
+    },
+    {
+        "id": 66,
+        "name": "Summer Olympics",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/66.png"
+    },
+    {
+        "id": 65,
+        "name": "Summer Olympics (Women)",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/65.png"
+    },
+    {
+        "id": 10498,
+        "name": "Summer Olympics Qualification CONCACAF (W)",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10498.png"
+    },
+    {
+        "id": 9514,
+        "name": "The Atlantic Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9514.png"
+    },
+    {
+        "id": 9806,
+        "name": "UEFA Nations League A",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9806.png"
+    },
+    {
+        "id": 10557,
+        "name": "UEFA Nations League A Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10557.png"
+    },
+    {
+        "id": 10717,
+        "name": "UEFA Nations League A Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10717.png"
+    },
+    {
+        "id": 9807,
+        "name": "UEFA Nations League B",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9807.png"
+    },
+    {
+        "id": 10558,
+        "name": "UEFA Nations League B Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10558.png"
+    },
+    {
+        "id": 10718,
+        "name": "UEFA Nations League B Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10718.png"
+    },
+    {
+        "id": 10458,
+        "name": "UEFA Nations League B Women",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10458.png"
+    },
+    {
+        "id": 9808,
+        "name": "UEFA Nations League C",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9808.png"
+    },
+    {
+        "id": 10719,
+        "name": "UEFA Nations League C Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10719.png"
+    },
+    {
+        "id": 10459,
+        "name": "UEFA Nations League C Women",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10459.png"
+    },
+    {
+        "id": 9809,
+        "name": "UEFA Nations League D",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9809.png"
+    },
+    {
+        "id": 74,
+        "name": "UEFA Super Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/74.png"
+    },
+    {
+        "id": 10457,
+        "name": "UEFA Women's Nations League A",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10457.png"
+    },
+    {
+        "id": 9741,
+        "name": "UEFA Youth League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9741.png"
+    },
+    {
+        "id": 10371,
+        "name": "Women's Africa Cup of Nations",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10371.png"
+    },
+    {
+        "id": 10269,
+        "name": "Womens Asian Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10269.png"
+    },
+    {
+        "id": 9375,
+        "name": "Women's Champions League",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/9375.png"
+    },
+    {
+        "id": 10612,
+        "name": "Women's Champions League Qualification",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10612.png"
+    },
+    {
+        "id": 292,
+        "name": "Women's EURO",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/292.png"
+    },
+    {
+        "id": 10640,
+        "name": "Women's EURO Qualification League A",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10640.png"
+    },
+    {
+        "id": 10641,
+        "name": "Women's EURO Qualification League B",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10641.png"
+    },
+    {
+        "id": 10642,
+        "name": "Women's EURO Qualification League C",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10642.png"
+    },
+    {
+        "id": 293,
+        "name": "Women's Friendlies",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/293.png"
+    },
+    {
+        "id": 76,
+        "name": "Women's World Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png"
+    },
+    {
+        "id": 77,
+        "name": "World Cup",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png"
+    },
+    {
+        "id": 10359,
+        "name": "World Cup Qualification (W) Inter-Confederation",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10359.png"
+    },
+    {
+        "id": 10197,
+        "name": "World Cup Qualification AFC",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10197.png"
+    },
+    {
+        "id": 10196,
+        "name": "World Cup Qualification CAF",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10196.png"
+    },
+    {
+        "id": 10198,
+        "name": "World Cup Qualification CONCACAF",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10198.png"
+    },
+    {
+        "id": 10199,
+        "name": "World Cup Qualification CONMEBOL",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10199.png"
+    },
+    {
+        "id": 10201,
+        "name": "World Cup Qualification Inter-confederation",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10201.png"
+    },
+    {
+        "id": 10200,
+        "name": "World Cup Qualification OFC",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10200.png"
+    },
+    {
+        "id": 10195,
+        "name": "World Cup Qualification UEFA",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10195.png"
+    },
+    {
+        "id": 306,
+        "name": "World Cup U17",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/306.png"
+    },
+    {
+        "id": 296,
+        "name": "World Cup U20",
+        "logo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/296.png"
+    }
+]
